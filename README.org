@@ -1,0 +1,2 @@
+* Syntax
+  Let's call this syntax "Keyword - Id - Properties" (KIPs).

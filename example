@@ -1,0 +1,11 @@
+#lang planet ilshad/kips-parser-rkt
+
+person frodo age=50 race=hobbit
+
+person bilbo age=128
+
+person elrond age=6449 race=elf
+
+realm gondor location=west-middle-earth first-king=Elendil
+
+weapon grond type=mace
