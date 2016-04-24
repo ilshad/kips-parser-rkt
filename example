@@ -1,10 +1,8 @@
-#lang planet ilshad/kips-parser-rkt
-
 person frodo age=50 race=hobbit
 
-person bilbo age=128
+person bilbo age=128 full-name="Bilbo Baggins" foo=bar
 
-person elrond age=6449 race=elf
+person elrond age=6449 race="elf"
 
 realm gondor location=west-middle-earth first-king=Elendil
 
